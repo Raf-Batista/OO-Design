@@ -1,16 +1,38 @@
 Outline Requirements for "The Insurance Company"
 
-The Insurance Company is a national organization that divides the country into regions based on differing laws governing insurance businesses, both in respect of accounting and reporting, and in terms of how insurance policies are regulated. The organization wants to be able to collate accounting informat ion overall, at the regional level, and for each individual office. Many of these reports take a standard form, but sometimes ad-hoc reports are required.
+The Insurance Company is a national organization that divides the country 
+into regions based on differing laws governing insurance businesses, both in 
+respect of accounting and reporting, and in terms of how insurance policies 
+are regulated. The organization wants to be able to collate accounting 
+informat ion overall, at the regional level, and for each individual office. 
+Many of these reports take a standard form, but sometimes ad-hoc reports are 
+required.
 
-The Insurance Company currently sells three policies, Bronze, Silver, and Gold. The differences between the policies relate to a number of areas:
+The Insurance Company currently sells three policies, Bronze, Silver, and 
+Gold. The differences between the policies relate to a number of areas:
 Covered items / events
 Premium and handling fees
 Available coverage limits
-Bronze coverage will always be offered, but silver and gold are only available for approved applicants
+Bronze coverage will always be offered, but silver and gold are only 
+available for approved applicants
 
-Clients can pay for policies either by making a 100% up-front payment, or by being accepted for credit by one of three companies the organization has agreements with. The three companies accept different levels of risk and charge fees in direct proportion to the level of risk they take on. Because of this, a client seeking a credit agreement will be directed to the lowest cost service that accepts their application.
+Clients can pay for policies either by making a 100% up-front payment, or by 
+being accepted for credit by one of three companies the organization has 
+agreements with. The three companies accept different levels of risk and 
+charge fees in direct proportion to the level of risk they take on. Because 
+of this, a client seeking a credit agreement will be directed to the lowest 
+cost service that accepts their application.
 
-Purchasing a new policy proceeds by collecting all the necessary information, and issuing a proposal including the premium and a credit offer. These are subject to local laws & taxes, along with risk analysis for both the insured risk and the creditworthiness of the applicant.
+Purchasing a new policy proceeds by collecting all the necessary 
+information, and issuing a proposal including the premium and a credit 
+offer. These are subject to local laws & taxes, along with risk analysis for 
+both the insured risk and the creditworthiness of the applicant.
 
-While the policy is in force, a scoring system collects information about certain events (e.g. on-time or late payments, the client taking courses to reduce their risk, or events that are deemed likely to increase risk). At any given point the client will be in one of several categories, and the events that occur can accumulate for better or worse to change the client's particular grouping. At renewal time, the grouping is also factored into the renewal premium.
+While the policy is in force, a scoring system collects information about 
+certain events (e.g. on-time or late payments, the client taking courses to 
+reduce their risk, or events that are deemed likely to increase risk). At 
+any given point the client will be in one of several categories, and the 
+events that occur can accumulate for better or worse to change the client's 
+particular grouping. At renewal time, the grouping is also factored into the 
+renewal premium.
 
