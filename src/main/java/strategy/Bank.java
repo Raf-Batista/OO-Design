@@ -1,4 +1,4 @@
-package changeobjecttype;
+package strategy;
 
 interface WithdrawPermit {
 //  boolean permit(Account a, long amount);
